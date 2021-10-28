@@ -1,6 +1,6 @@
 /* Start Global Rules */
 html {
-  scroll-behavior: smooth;
+  /* scroll-behavior: smooth; */
 }
 * {
   -webkit-box-sizing: border-box;
